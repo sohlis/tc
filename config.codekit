@@ -3591,13 +3591,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/lake-2.png": {
-		"fileType": 32768,
+	"\/img\/lake-2.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/img\/lake-2.png",
-		"outputAbbreviatedPath": "\/img\/lake-2.png",
+		"initialSize": 968793,
+		"inputAbbreviatedPath": "\/img\/lake-2.jpg",
+		"outputAbbreviatedPath": "\/img\/lake-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3631,6 +3631,28 @@
 		"initialSize": 1.25566e+06,
 		"inputAbbreviatedPath": "\/img\/ocean.png",
 		"outputAbbreviatedPath": "\/img\/ocean.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/unsplash_523bf67db73f1_1.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7.09934e+06,
+		"inputAbbreviatedPath": "\/img\/unsplash_523bf67db73f1_1.JPG",
+		"outputAbbreviatedPath": "\/img\/unsplash_523bf67db73f1_1.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wdXqHcTwSTmLuKOGz92L_Landscape.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8.05058e+06,
+		"inputAbbreviatedPath": "\/img\/wdXqHcTwSTmLuKOGz92L_Landscape.jpg",
+		"outputAbbreviatedPath": "\/img\/wdXqHcTwSTmLuKOGz92L_Landscape.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
