@@ -3591,16 +3591,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/grapes.png": {
+	"\/img\/lake-2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 68449,
-		"inputAbbreviatedPath": "\/img\/grapes.png",
-		"outputAbbreviatedPath": "\/img\/grapes.png",
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/lake-2.png",
+		"outputAbbreviatedPath": "\/img\/lake-2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/lake.jpg": {
 		"fileType": 16384,
@@ -3613,49 +3613,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/leek.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 530239,
-		"inputAbbreviatedPath": "\/img\/leek.jpg",
-		"outputAbbreviatedPath": "\/img\/leek.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/leek1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 494846,
-		"inputAbbreviatedPath": "\/img\/leek1.jpg",
-		"outputAbbreviatedPath": "\/img\/leek1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/leek2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 470484,
-		"inputAbbreviatedPath": "\/img\/leek2.jpg",
-		"outputAbbreviatedPath": "\/img\/leek2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/Untitled-1.png": {
+	"\/img\/lake.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 85245,
-		"inputAbbreviatedPath": "\/img\/Untitled-1.png",
-		"outputAbbreviatedPath": "\/img\/Untitled-1.png",
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/lake.png",
+		"outputAbbreviatedPath": "\/img\/lake.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/index.html": {
 		"fileType": 8192,

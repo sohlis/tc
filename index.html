@@ -27,10 +27,10 @@
                 // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
                 var mapOptions = {
                     // How zoomed in you want the map to start at (always required)
-                    zoom: 16,
+                    zoom: 12,
 
                     // The latitude and longitude to center the map (always required)
-                    center: new google.maps.LatLng(37.4462442, -122.1631826), // New York
+                    center: new google.maps.LatLng(40.7127, -74.0059), // New York
                     disableDefaultUI: true,
 
                     // How you would like to style the map. 
@@ -46,6 +46,7 @@
                 var map = new google.maps.Map(mapElement, mapOptions);
             }
         </script>
+        <script>$.stellar();</script>
     <div class="topphoto row">
       <div class="large-4 large-centered medium-6 medium-centered columns" id="logo">
 
@@ -104,41 +105,76 @@
       <div class="pagecontain" class="large-12 medium-12 columns">
   
               <div id="topheadline" class="large-8 large-centered columns">
-                <h1>Triple Clear’s patented treatment systems are designed to make your water
-                clean, clear and delicious.</h1>
+                <h2>Triple Clear’s patented treatment systems are designed to make your water
+                clean, clear and delicious.</h2>
                 <hr><hr>  
                   <div class="section">
                   </div>
                     <div class="row">
-                      <div id="vegs" class="large-5 medium-5 columns"><img src="img/filter.png" width="75%" height="75%" alt=""><h3  class="large-8 large-center columns text-center">Nanocar+ filter</h3>
+                      <div id="vegs" class="large-4 medium-4 columns"><img src="img/filter.png" width="85%" height="85%" alt="">
+                      <p class="large-10 large-center columns text-center">Nanocar+ filter</p>
                       </div>
-                        <div class="large-7 medium-7 columns">
-                          <h2> How it works</h2>
+                        <div class="large-8 medium-8 columns" style="margin-bottom: 15px">
+                          <h1> How it works</h1>
                             <p>It is the atomic means of developing a NEW molecule that is far superior to its individual parts and was developed for a specific purpose. In layman’s terms: It is the science of manipulating a molecule on the “NANO” level. It starts with coconut carbon which is heated to eliminate most gas and pollutants. This “active” carbon is then placed in the vacuum chamber of a plasma reactor where the air is slowly removed from the chamber. This causes the carbon molecule to not only be prepared for ionization, but expands the walls of the carbon molecule both internally and externally, thereby increasing its capacity for absorption increasing the surface area to volume ratio).</p>
                         </div>
                     </div>
 </div>
                 <div class="row fullWidth">
-                  <div class="large-12 medium-12 columns">
-                    <img src="http://placehold.it/3000x950">  
+                  <div id="img-one" class="large-12 medium-12 columns">
+                    <img width="100%" src="img/lake.png" style="padding: 20px 0 20px 0">  
+                  </div>
+                </div>
+
+                
+                  
+    			<br>
+    			<br>
+                 <div class="row">
+                      
+                        <div class="large-8 large-centered medium-8 columns" style="margin-bottom: 15px">
+                          <h1> Advantage</h1>
+                            <p>The Triple Clear filtering systems consists of carbon media that has achieved the NSF International 61 Certification. This certification means that once the water has passed through the media, it is now potable ( safe drinkable water) . NSF test for all pollutants, metals and bacteria to make sure the water meets ALL international potable drinking water regulations.</p>
+
+                            <h1>Filtration Vs. Osmosis</h1>
+                            <p>Reverse Osmosis is not ideal for all situations, particularly situations where it is important that bacteria or other microbiological problems require removal. Contrary to what some salespersons tend to call a reverse osmosis system, it is NOT a "purifier". 
+                            <br>
+                            <br>
+                            Purification requires the destruction and removal of bacteria, something which R/O does not accomplish. Certified in-home medical studies of hundreds of systems in Canada have clearly demonstrated that reverse osmosis can increase bacteria levels in the treated water to levels which are thousands of times higher than occur in the incoming tap water, leading to exceptionally high incidences of gastrointestinal disorders.
+                            <br>
+                            <br>
+							The US reverse osmosis business has understandably been strangely quiet about these problems which have been openly published in Canadian medical journals, particularly in light of the growing number of illnesses being attributed to bacterial problems in municipal and rural water systems in the United States.
+							<br>
+							<br>
+							If water cleanliness with respect to bacteria is unimportant to you, reverse osmosis will provide you with good tasting water under most tap water conditions, provided regular maintenance is performed on the membrane and filter components.</p>
+                        </div>
+
+                    </div>
+              </div>
+              </div>
+                <div class="row fullWidth">
+                  <div id="img-one" class="large-12 medium-12 columns">
+                    <img width="100%" src="img/lake-2.png" style="padding: 20px 0 20px 0">  
                   </div>
                 </div>
 
                 <div style="margin-bottom: 50px" class="row">
                 <div style="text-align:center; padding-top: 25px;" class="large-10 large-centered columns">
-                <h2>Get in touch<hr></h2>
-                <h3> hello@tripleclear.com | 111-111-1111 | 1234 Anywhere, USA 91110 </h3>
+                <h2>Get in touch to learn more<hr></h2>
+                <h3> <a href="mailto:hello@tripleclear.com?Subject=Hello%20again" target="_top">
+Email us</a> | 111-111-1111 | 1234 Anywhere, USA 91110 </h3>
                 </div>
                 </div>
                 
               </div>
               <div id="map"></div>
           
-      </div>
+      
     
 
     <!-- js -->
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/jquery/dist/jquery.stellar.min.js"></script>
     <script src="bower_components/foundation/js/foundation.min.js"></script>
     <script src="js/app.js"></script>
 
