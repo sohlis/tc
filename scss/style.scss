@@ -1,0 +1,89 @@
+$white-color: #F7F7f7;
+$red-color: #AB4A35;
+$dark-color: #7F7F7F;
+
+@font-face {
+  font-family: 'Klav';
+  src: url('Klavika-Bold.otf'); 
+}
+@font-face {
+  font-family: 'KlavItal';
+  src: url('Klavika-LightItalic.otf'); 
+}
+@font-face {
+  font-family: 'KlavText';
+  src: url('Klavika-Light.otf'); 
+}
+$head-font: "Klav", "Didot", "Bodoni", serif;
+$em-font: "KlavItal", "Didot", "Bodoni", serif;
+$body-font: "KlavText", "Didot", "Bodoni", serif;
+
+
+h1 {
+  font-family: $head-font;
+  color: $dark-color;
+  font-size: 2.75em;
+}
+
+h2 {
+ font-family: $em-font;
+  color: $dark-color;
+  font-size: 3em;
+}
+
+h3 {
+  font-family: $em-font;
+  color: $dark-color;
+}
+
+p {
+  font-family: $body-font;
+  color: $dark-color
+}
+
+.topphoto {
+   width: 100%;
+   height: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: initial;
+
+     background: url(../img/leek.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+html {  background-color:#0482C3;}
+#logo {
+	margin-top: 10%;
+}
+
+#restof {
+ margin-top: -6%;
+
+
+}
+#pagecontain {
+ background-color: $white-color;
+
+
+}
+
+#papers {
+  
+}
+#topheadline {
+  padding-top: 3em;
+}
+
+#vegs {
+}
+
+.fullWidth {
+   width: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: initial;
+}
+
