@@ -38,7 +38,7 @@ p {
   background-size: cover; }
 
 html {
-  background-color: #0482C3; }
+  background-color: #F7F7F7; }
 
 #logo {
   margin-top: 10%; }
@@ -46,7 +46,7 @@ html {
 #restof {
   margin-top: -6%; }
 
-#pagecontain {
+.pagecontain {
   background-color: #f7f7f7; }
 
 #topheadline {

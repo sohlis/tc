@@ -3602,6 +3602,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/img\/lake.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 271340,
+		"inputAbbreviatedPath": "\/img\/lake.jpg",
+		"outputAbbreviatedPath": "\/img\/lake.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/leek.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3617,23 +3628,23 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 495326,
+		"initialSize": 494846,
 		"inputAbbreviatedPath": "\/img\/leek1.jpg",
 		"outputAbbreviatedPath": "\/img\/leek1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/leek2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 471492,
+		"initialSize": 470484,
 		"inputAbbreviatedPath": "\/img\/leek2.jpg",
 		"outputAbbreviatedPath": "\/img\/leek2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Untitled-1.png": {
 		"fileType": 32768,
@@ -3751,12 +3762,12 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Jayson Hobby",
+"lastSavedByUser": "Stefan Sohlstrom",
 "manualImportLinks": {
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "zola",
+	"displayValue": "tripleclear",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "globe_orange"
 	},
