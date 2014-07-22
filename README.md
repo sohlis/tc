@@ -1,4 +1,0 @@
-tc
-==
-
-Triple Clear

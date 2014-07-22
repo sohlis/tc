@@ -1,22 +1,30 @@
-<!doctype html>
-<html class="no-js" lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
     <title>Triple Clear</title>
-    <link rel="stylesheet" href="css/app.css" />
-    <link rel="stylesheet" href="css/style.css" />
-    <script src="bower_components/modernizr/modernizr.js"></script>
-      <style type="text/css">
-            /* Set a size for our map container, the Google Map will take up 100% of this container */
-            #map {
-                width: 100%;
-                height: 300px;
-            }
-        </style>
-  </head>
-  <body>
-  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&sensor=false"></script>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Fonts -->
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- Custom Theme CSS -->
+    <link href="css/grayscale.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&sensor=false"></script>
         
         <script type="text/javascript">
             // When the window has finished loading create our google map below
@@ -47,114 +55,304 @@
             }
         </script>
 
-        
-        
-    <div class="topphoto row" data-stellar-background-ratio="0.45">
-      <div class="large-4 large-centered medium-6 medium-centered columns" id="logo">
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="#page-top">
+                    <i class="fa fa-play-circle"></i>  <span class="light">Triple Clear</span>
+                </a>
+            </div>
 
-              <img src="img/logo.svg" style="margin-top: 30%;"alt="">
-                                     
-      </div>
-    </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#about">About</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#technology">Technology</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#solutions">Solutions</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#testing">Testing</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#science">Science</a>
+                    </li>     
+                    <li class="page-scroll">
+                        <a href="#news">News</a>
+                    <li class="page-scroll">
+                        <a href="#contact">Contact</a>
+                    </li>
+                    </li>                                   
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
 
-    <div id="restof"class="row fullWidth">
-      <div class="pagecontain" class="large-12 medium-12 columns">
-  
-              <div id="topheadline" class="large-8 large-centered columns">
-                <h2>Triple Clear’s patented treatment systems are designed to make your water
-                clean, clear and delicious.</h2>
-                <hr><hr>  
-                  <div class="section">
-                  </div>
-                    <div class="row">
-                      <div id="vegs" class="large-4 medium-4 columns"><img src="img/filter.png" width="85%" height="85%" alt="">
-                      <p class="large-10 large-center columns text-center">Nanocar+ filter</p>
-                      </div>
-                        <div class="large-8 medium-8 columns" style="margin-bottom: 8em">
-                          <h1> How it works</h1>
-                            <p>It is the atomic means of developing a NEW molecule that is far superior to its individual parts and was developed for a specific purpose. In layman’s terms: It is the science of manipulating a molecule on the “NANO” level. It starts with coconut carbon which is heated to eliminate most gas and pollutants. This “active” carbon is then placed in the vacuum chamber of a plasma reactor where the air is slowly removed from the chamber. This causes the carbon molecule to not only be prepared for ionization, but expands the walls of the carbon molecule both internally and externally, thereby increasing its capacity for absorption increasing the surface area to volume ratio).</p>
+    <section class="intro">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <img class="brand-heading" src="img/logo.png">
+                        <p class="intro-text"> Not Just Cleaner Water, Better Water</p>
+                        <div class="page-scroll">
+                            <a href="#about" class="btn btn-circle">
+                                <i class="fa fa-angle-double-down animated"></i>
+                            </a>
                         </div>
                     </div>
-</div>
-                <div class="row fullWidth">
-                  <div data-stellar-background-ratio="0.3"  style="margin-bottom: 4em;"id="img-one" class="large-12 medium-12 columns">
-                    <!-- <img width="100%" src="img/lake.png" style="padding: 20px 0 20px 0">   -->
-                  </div>
                 </div>
+            </div>
+        </div>
+    </section>
 
+    <section id="about" class="container content-section">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>About Triple Clear</h2>
+                <p>We at Triple Clear care about water.  We understand its importance and we are dedicated to the science of clean water.  Our founder was backpacking through Africa when he saw the devastation that a lack of clean water can have on people and their communities.  He made it his life’s mission to find a better way to treat water and make it safe for people and the environment.</p>
+
+                <p>Years of study lead him down a path where he found answers.  Amazingly, he found the answer in the science of nanotechnology.  There, he found a way to create an entirely new molecule.  A molecule that is not only completely natural and organic, but also has the nearly magical ability to purify water without the use of any chlorine, chemicals or electricity.</p>
+
+                <p>It is our mission to share this technology with the world providing efficient, effective water treatment solutions from the smallest to the largest scale.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="technology" class="content-section text-center">
+        <div class="technology-section" data-stellar-background-ratio="0.45">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Inside the Technology</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="technology" class="container content-section">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Triple Clear Technology</h2>
+
+                <p>Triple Clear Powder (TCP) is a filtration media based on nanotechnology. It starts with coconut shells which are converted to grains of highly porous carbon base material.  Then, using a proprietary method based on technologies created for the semiconductor industry, they are plated with high purity elements.</p>
+
+                <p>The result?  One gram of Triple Clear Powder has an internal adsorptive surface area equivalent to a Soccer field!</p>
+
+                <p>This is more than 8x the normal absorptive qualities of activated carbon.  It’s like a “super sponge.” Plus, unlike normal granular activated carbon, our patented process leaves every grain with both bactericidal and bacteriostatic properties.  This means it doesn’t just kill bacteria, it keeps killing bacteria for days after treatment, while leaving no chemicals or ions in the water.  We kill bacteria using just oxygen!</p>
+
+                 <p>Using no electricity or chemicals, Triple Clear: Filters and suppresses heavy metals, hydrocarbons, pesticides, nitrates, micro-pollutants, oxidation byproducts, detergents, other harmful chemical products, coloring, tastes and odors; Oxidizes toxins and bacteria on contact, including bacteria that are resistant to chlorine, such as Legionella Pneumophila and, amazingly, because of its residual properties, it preserves water naturally and protects for an extended time period against recontamination It’s not only the most effective process available, it’s completely GREEN!</p>
+
+                <h4>Why is Triple Clear the best technology?</h4>
+
+                <ul>
+                    <li>Versus Reverse Osmosis (RO)</li> 
+                    <li>RO doesn’t destroy bacteria…in fact, it often increases bacteria</li>
+                    <li>RO uses both electricity and chemicals</li>
+                    <li>Versus Ordinary Granulated Active Carbon (GAC)</li>
+                    <li>Triple Clear Powder has 8x the surface area of ordinary GAC per gram</li>
+                    <li>Ordinary GAC has no ability to kill bacteria…in fact, bacteria often builds up in GAC</li>
+                    <li>Versus UV</li>
+                    <li>Triple Clear Powder requires no electricity</li>
+                    <li>Unlike Triple Clear Powder UV is not bacteriostatic…meaning bacteria will begin growing again immediately after treatment</li>
+                </ul>
+
+                <h4>Triple Clear key benefits</h4>
                 
-                  
-    			<br>
-    			<br>
-                 <div class="row">
-                      
-                        <div class="large-8 large-centered medium-8 columns" style="margin-bottom: 5em">
-                          <h1> Advantage</h1>
-                            <p>The Triple Clear filtering systems consists of carbon media that has achieved the NSF International 61 Certification. This certification means that once the water has passed through the media, it is now potable ( safe drinkable water) . NSF test for all pollutants, metals and bacteria to make sure the water meets ALL international potable drinking water regulations.</p>
-
-                            <h1>Filtration Vs. Osmosis</h1>
-                            <p>Reverse Osmosis is not ideal for all situations, particularly situations where it is important that bacteria or other microbiological problems require removal. Contrary to what some salespersons tend to call a reverse osmosis system, it is NOT a "purifier". 
-                            <br>
-                            <br>
-                            Purification requires the destruction and removal of bacteria, something which R/O does not accomplish. Certified in-home medical studies of hundreds of systems in Canada have clearly demonstrated that reverse osmosis can increase bacteria levels in the treated water to levels which are thousands of times higher than occur in the incoming tap water, leading to exceptionally high incidences of gastrointestinal disorders.
-                            <br>
-                            <br>
-							The US reverse osmosis business has understandably been strangely quiet about these problems which have been openly published in Canadian medical journals, particularly in light of the growing number of illnesses being attributed to bacterial problems in municipal and rural water systems in the United States.
-							<br>
-							<br>
-							If water cleanliness with respect to bacteria is unimportant to you, reverse osmosis will provide you with good tasting water under most tap water conditions, provided regular maintenance is performed on the membrane and filter components.</p>
-                        </div>
-
-                    </div>
-              </div>
+                <ul>
+                    <li>Triple Clear powder</li> 
+                    <li>works instantly on contact</li>
+                    <li>Keeps working, killing bacteria even after treatment is finished</li>
+                    <li>Leaves the “good” in the water. It doesn’t remove all of the (Natural ) minerals that are good for human consumption and give water its nutrients and flavor. In fact, the hyper-oxygenated water is even healthier!</li>
+                    <li>Requires no electricity and very little maintenance </li>
+                    <li>Is completely scalable from a single use tap to enormous industrial tanks</li>
+                    <li>Is environmentally inert. A truly GREEN technology.</li>
+                    <li>Triple Clear Powder requires no electricity</li>
+                    <li>Unlike Triple Clear Powder UV is not bacteriostatic…meaning bacteria will begin growing again immediately after treatment</li>
+                </ul>
 
 
-              </div>
+            </div>
+        </div>
+    </section>
 
-                              <div class="row fullWidth">
-                  <div  data-stellar-background-ratio="0.3" style="margin-bottom: 5em;"id="img-two" class="large-12 medium-12 columns">
-                    <!-- <img width="100%" src="img/lake.png" style="padding: 20px 0 20px 0">   -->
-                  </div>
+        <section id="solutions" class="content-section text-center">
+        <div class="solutions-section" data-stellar-background-ratio="0.45">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>How Triple Clear can work for you</h2>
                 </div>
-              
+            </div>
+        </div>
+    </section>
 
+      <section id="solutions" class="container content-section">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Solutions</h2>
+                <p>Triple Clear Powder (TCP) is available in bulk powder, as block, in our standard filter housings, or in our custom developed filter housings.  We easily scale our offerings from home use all the way to mission critical industrial applications.  Our Triple Clear based solutions are perfect for:</p>
 
-                <!-- <div class="row fullWidth">
-                  <div id="img-two" class="large-12 medium-12 columns">
-                    <img width="100%" src="img/lake-2.png" style="padding: 20px 0 20px 0">  
-                  </div>
-                </div> -->
+                <h4>Potable Water</h4>
+                <p>Drinking water filtered by Triple Clear is pure, healthy, and delicious.  The quality exceeds the quality of most bottled waters and provides a Green and cost-effective alternative.  Whether polishing tap water for taste and bacteria, or cleaning truly contaminated well water, Triple Clear delivers exceptional results.</p>
+                <h4>Aquaculture</h4>
+                <p>TCP has been tested in aquaculture production, specifically shrimp farming and fish aquariums. Because of the increased oxygen level and quality of the treated water, the results were significant in terms of yield and quality of the cultivated shrimp and fish.</p>
+                <h4>Agriculture</h4>
+                <p>TCP has been tested with certain agricultural crops, again with extraordinary results. It may be possible that, by providing oxygen enriched water over time, the use of nitrate based fertilizers could be dramatically reduced as it improves the microbiological environment and so the production. TCP even removes all traces of nitrates from the water.</p>
+                <h4>Swimming Pool Filtration</h4>
+                <p>TCP eliminates the need for any chemical treatment of pool water, and will also eliminate the substances listed above together with bacteria and human secretions. Its use will prove more cost effective than the traditional chemical additive systems, is environmentally friendly, and can be retrofitted to existing filtration systems.</p> 
+                <h4>Biofilms & Industrial Fluids</h4>
+                <p>Triple Clear has entered into various joint development programs with several multi-national corporations to explore filtration and sterilization opportunities in agriculture and biofilm in the petroleum industries.  Fluids, including oils and cooling liquids, used in closed loop systems requires frequent system maintenance due to the presence of bacteria.  In addition, the presence of bacteria can affect the properties of the fluid media.The use of Triple Clear Powder offers significant potential for cost savings by canceling the biofilm, resulting in a corresponding reduction in down time and loss of production.</p>                                               
+            </div>
+        </div>
+    </section>
 
-                <div style="margin-bottom: 50px" class="row">
-                <div style="text-align:center; padding-top: 25px;" class="large-10 large-centered columns">
-                <h2>Get in touch to learn more<hr></h2>
-                <h3> <a href="mailto:hello@tripleclear.com?Subject=Hello%20again" target="_top">
-Email us</a> | 111-111-1111 | 1234 Anywhere, USA 91110 </h3>
+       <section id="testing" class="content-section text-center">
+        <div class="testing-section" data-stellar-background-ratio="0.45">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Quality Assured</h2>
                 </div>
-                </div>
+            </div>
+        </div>
+    </section>
+
+      <section id="testing" class="container content-section">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Triple Clear is proven</h2>
                 
-              </div>
-              <div id="map"></div>
-          
-      
-    
+                <p>Tests of micro and macro-biology and numerous analyses have been made by several international labs:</p>
+                
+                <ul>
+                    <li>The CAMR (Center for Applied Microbiology & Research) Salisbury, England</li> 
+                    <li>The LSEH (Health, Environment and Hygiene Laboratory) Lyon, France</li>
+                    <li>The PACS (Professional Analytical and Consulting Services) USA</li>
+                    <li>Genapure in USA</li>
+                    <li>The NSF (National Sanitation Foundation) USA</li>
+                    <li>Glycodiag in France</li>
+                    <li>The Center of Analyses of Water Supply Company of Beijing, China</li>
+                    <li>The IPM (Pasteur Institute) of Madagascar</li>
+                    <li>Unlike Triple Clear Powder UV is not bacteriostatic…meaning bacteria will begin growing again immediately after treatment</li>
+                </ul>
 
-    <!-- js -->
-    <script src="bower_components/jquery/dist/jquery.min.js"></script>
-    <script src="js/jquery.stellar.min.js"></script>
-    <script src="bower_components/foundation/js/foundation.min.js"></script>
+                <p>Plus, full state of the art characterization testing of the raw Triple Clear powder has been done including:</p>
+                
+                <ul>
+                    <li>Hardness testing</li> 
+                    <li>Total Ash</li>
+                    <li>Iodine Capacity</li>
+                    <li>Dechlorination Capacity</li>
+                    <li>Methylene Blue</li>
+                    <li>Gravimetric Rapid Pour Size Distribution</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+           <section id="science" class="content-section text-center">
+        <div class="science-section" data-stellar-background-ratio="0.45">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Triple Clear is backed by science</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+
+      <section id="science" class="container content-section">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>The Science</h2>
+                <h4>Triple Clear Powder is more than just Granulated Active Carbon (GAC)!</h4>
+                <p>The grafting of very high purity metals onto the internal and external micro-pore surfaces of the active carbon is done through a proprietary process derived upon technologies created for the semiconductor industry. Our Chief Science Officer developed the hardware systems and processes in-house using ground-breaking techniques from the nano-scale semiconductor industry.</p>
+
+                <p>The deposits obtained on the GAC is said to be "in thin layers" with controlled thickness of a few dozens angstroms. The catalytic elements are covalently bonded (i.e., strong atomic bonds) to the virgin active carbon, and due to the purity of the materials deposited provide stability to the metallic ions and will not induce metal oxidation, which assures an excellent reactivity in water.</p>
+
+                <p>The net result is that Triple Clear Powder combines the well-known adsorptive qualities of granulated activated carbon with the immediate bactericidal and bacteriostatic qualities.</p>
+
+                <p>Without the use of electricity or a photo source (example ~ UV light), the natural catalytic reaction created by water flowing through the Triple Clear Powder purifies water to a certifiable potable state**, with the added benefits of oxidizing toxins and bacteria on contact (including bacteria that are resistant to chlorine, such as Legionella Pneumophila) and preserves water naturally for an extended period of time against recontamination.</p>
+
+            </div>
+        </div>
+    </section>
+
+           <section id="news" class="content-section text-center">
+        <div class="news-section" data-stellar-background-ratio="0.45">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Triple Clear NEws & Announcements</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+
+      <section id="news" class="container content-section">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Starwood on board</h2>
+                <p>Triple Clear chosen for One Hotels from Starwood (placeholder for press release)</p>
+            </div>
+        </div>
+    </section>
+
+
+
+ <!--   <section id="contact" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Contact Start Bootstrap</h2>
+                <p>Feel free to email us to provide some feedback on our templates, give us suggestions for new templates and themes, or to just say hello!</p>
+                <p>feedback@startbootstrap.com</p>
+                <ul class="list-inline banner-social-buttons">
+                    <li><a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                    </li>
+                    <li><a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                    </li>
+                    <li><a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section> !-->
+
+    <div id="map"></div>
+
+    <!-- Core JavaScript Files -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
     <script src="js/app.js"></script>
+    <script src="js/jquery.stellar.min.js"></script>
 
-<!-- parallax scroll -->
+    <!-- parallax scroll -->
         <script>
 
         $.stellar(
           {
               horizontalOffset: 50,
-  verticalOffset: 50
+    verticalOffset: 50
           });
 
         </script>
- 
-  </body>
+
+    <!-- Google Maps API Key - You will need to use your own API key to use the map feature -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/grayscale.js"></script>
+
+</body>
+
 </html>
