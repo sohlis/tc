@@ -524,7 +524,7 @@
 		"outputAbbreviatedPath": "\/img\/downloads-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/hands.jpg": {
 		"fileType": 16384,
@@ -535,7 +535,7 @@
 		"outputAbbreviatedPath": "\/img\/hands.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/intro-bg.jpg": {
 		"fileType": 16384,
@@ -546,7 +546,7 @@
 		"outputAbbreviatedPath": "\/img\/intro-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/logo.png": {
 		"fileType": 32768,
@@ -557,7 +557,7 @@
 		"outputAbbreviatedPath": "\/img\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/main.jpg": {
 		"fileType": 16384,
@@ -568,7 +568,7 @@
 		"outputAbbreviatedPath": "\/img\/main.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/1.png": {
 		"fileType": 32768,
@@ -579,7 +579,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/10.png": {
 		"fileType": 32768,
@@ -590,7 +590,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/10.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/11.png": {
 		"fileType": 32768,
@@ -601,7 +601,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/11.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/12.png": {
 		"fileType": 32768,
@@ -612,7 +612,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/12.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/13.png": {
 		"fileType": 32768,
@@ -623,7 +623,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/13.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/14.png": {
 		"fileType": 32768,
@@ -634,7 +634,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/14.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/15.png": {
 		"fileType": 32768,
@@ -645,7 +645,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/15.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/16.png": {
 		"fileType": 32768,
@@ -656,7 +656,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/16.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/17.png": {
 		"fileType": 32768,
@@ -667,7 +667,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/17.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/18.png": {
 		"fileType": 32768,
@@ -678,7 +678,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/18.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/19.png": {
 		"fileType": 32768,
@@ -689,7 +689,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/19.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/2.png": {
 		"fileType": 32768,
@@ -700,7 +700,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/20.png": {
 		"fileType": 32768,
@@ -711,7 +711,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/20.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/21.png": {
 		"fileType": 32768,
@@ -722,7 +722,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/21.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/22.png": {
 		"fileType": 32768,
@@ -733,7 +733,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/22.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/23.png": {
 		"fileType": 32768,
@@ -744,7 +744,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/23.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/24.png": {
 		"fileType": 32768,
@@ -755,7 +755,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/24.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/25.png": {
 		"fileType": 32768,
@@ -766,7 +766,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/25.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/3.png": {
 		"fileType": 32768,
@@ -777,7 +777,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/4.png": {
 		"fileType": 32768,
@@ -788,7 +788,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/5.png": {
 		"fileType": 32768,
@@ -799,7 +799,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/5.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/6.png": {
 		"fileType": 32768,
@@ -810,7 +810,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/6.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/7.png": {
 		"fileType": 32768,
@@ -821,7 +821,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/7.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/8.png": {
 		"fileType": 32768,
@@ -832,7 +832,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/8.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/new\/9.png": {
 		"fileType": 32768,
@@ -843,7 +843,7 @@
 		"outputAbbreviatedPath": "\/img\/new\/9.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/news.jpg": {
 		"fileType": 16384,
@@ -854,7 +854,7 @@
 		"outputAbbreviatedPath": "\/img\/news.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/science.jpg": {
 		"fileType": 16384,
@@ -865,7 +865,7 @@
 		"outputAbbreviatedPath": "\/img\/science.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/solutions.jpg": {
 		"fileType": 16384,
@@ -876,7 +876,7 @@
 		"outputAbbreviatedPath": "\/img\/solutions.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/tc-bg.jpg": {
 		"fileType": 16384,
@@ -887,7 +887,7 @@
 		"outputAbbreviatedPath": "\/img\/tc-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/tc-water-2.jpg": {
 		"fileType": 16384,
@@ -898,7 +898,7 @@
 		"outputAbbreviatedPath": "\/img\/tc-water-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/tc-water.jpg": {
 		"fileType": 16384,
@@ -909,7 +909,7 @@
 		"outputAbbreviatedPath": "\/img\/tc-water.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/tc-water.png": {
 		"fileType": 32768,
@@ -920,7 +920,7 @@
 		"outputAbbreviatedPath": "\/img\/tc-water.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/testing.jpg": {
 		"fileType": 16384,
@@ -931,7 +931,7 @@
 		"outputAbbreviatedPath": "\/img\/testing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
